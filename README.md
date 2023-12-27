@@ -1,8 +1,8 @@
-<a href="r0bertinho.github.io">
-  <h1>
+<h1>
+  <a href="r0bertinho.github.io">
     Staic pages study
-  </h1>
-</a>
+  </a>
+</h1>
 
 ## This project was made to:
 1. Test concepts I study;
