@@ -1,0 +1,71 @@
+h1 {
+    margin: 0;
+    line-height: 1;
+    justify-content: center;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 200;
+    color: #000000;
+    font-size: 55px;
+}
+
+p {
+    margin: 2px 0;
+    line-height: 1.8;
+    font-weight: 300;
+}
+
+a, a:link, a:visited {
+    color: #006edb;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0084ff;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#special, #special:link, #special:visited {
+    color: #dc143c;
+    text-decoration: none;
+}
+
+#special:hover {
+    color: #ff0033;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    justify-content: center;
+    padding: 32px;
+    font-size: 16px;
+    color: #000000;
+}
+
+#title_text {
+    text-align: center;
+    justify-content: center;
+    padding: 32px;
+    font-size: medium;
+}
+
+#final_say {
+    text-align: center;
+    justify-content: center;
+    padding: 32px;
+    font-size: medium;
+
+}
+
+#final_say:hover {
+    color: #20001c;
+    background-color: #f1f1f1;
+    padding: 32px;
+    text-align: left;
+    justify-content: left;
+    font-size: medium;
+    text-decoration: underline;
+}
