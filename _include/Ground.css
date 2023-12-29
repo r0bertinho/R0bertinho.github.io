@@ -23,6 +23,8 @@ div {
     padding: 10px;
     margin: 0 auto;
     display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
     background-color: #f1f1f1;
 }
 
@@ -33,7 +35,7 @@ main, aside{
     background-color: #272727;
 }
 
-#page_main_header {
+.page_main_header {
     margin: auto;
     padding: auto;
     display: block;
@@ -41,14 +43,14 @@ main, aside{
     background-color: #ffffffff;
 }
 
-#page_finale, #final_of_page {
+.page_finale, .final_of_page {
     margin: auto;
     padding: auto;
     display: block;
     background-color: #f1f1f1;
 }
 
-#left_main, #right_aside {
+.left_main, .right_aside {
     padding: 10px;
     margin: 0 auto;
     flex: 1;

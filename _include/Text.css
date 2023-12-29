@@ -26,12 +26,12 @@ a:hover {
     text-decoration: underline;
 }
 
-#special, #special:link, #special:visited {
+.special, .special:link, .special:visited {
     color: #dc143c;
     text-decoration: none;
 }
 
-#special:hover {
+.special:hover {
     color: #ff0033;
     font-size: 20px;
     text-decoration: underline;
@@ -45,14 +45,14 @@ footer {
     color: #000000;
 }
 
-#title_text {
+.title_text {
     text-align: center;
     justify-content: center;
     padding: 32px;
     font-size: medium;
 }
 
-#final_say {
+.final_say {
     text-align: center;
     justify-content: center;
     padding: 32px;
@@ -60,7 +60,7 @@ footer {
 
 }
 
-#final_say:hover {
+.final_say:hover {
     color: #20001c;
     background-color: #f1f1f1;
     padding: 32px;
